@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import { Link } from '@remix-run/react'
-import { useLocation } from 'react-router-dom'
+import { Link, useLocation } from '@remix-run/react'
+
 // import styles from  '../styles/Navbar.css'
 import ReorderIcon from '@material-ui/icons/Reorder'
 
