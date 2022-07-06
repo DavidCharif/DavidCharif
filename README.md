@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidcharif&" alt="davidcharif" /></p>
  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcharif)](https://github.com/anuraghazra/github-readme-stats)
