@@ -16,8 +16,8 @@
 <a href="https://www.hackerrank.com/davidcharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidcharif" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcharif&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcharif&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![wakatime](https://wakatime.com/badge/user/a093a733-558d-4b52-bdb1-40bb2715b7e8.svg)](https://wakatime.com/@a093a733-558d-4b52-bdb1-40bb2715b7e8)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcharif&show_icons=true&theme=radical&title_color=ff0000&locale=en" alt="davidcharif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidcharif&" alt="davidcharif" /></p>
