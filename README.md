@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [SmartRecipes](Its Private thought...)
 
-- 🌱 I’m currently learning **React 18, Node.js, Next.js**
+- 🌱 I’m currently learning **React 18, Node.js, Next.js, Babylon.js, Phaser.js**
 
 - 💬 Ask me about **react, firebase**
 
